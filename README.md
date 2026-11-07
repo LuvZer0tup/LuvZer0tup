@@ -5,7 +5,6 @@ Backend & Cybersecurity Enthusiast based in Kyiv, Ukraine 🇺🇦
 ---
 
 ### 🚀 What I'm Working On:
-- ☕ Developing **Hastamanana** (FastAPI / PostgreSQL) — an "Order Ahead" web application for coffee shops.
 - 🐍 Building automation workflows and scripts in **Python**.
 - 🛡️ Studying core fundamentals in Cybersecurity and Information Protection.
 - 🛠️ Expanding my backend tech stack: FastAPI, SQLAlchemy 2.0, Docker, and Linux/Ubuntu environments.
